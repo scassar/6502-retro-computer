@@ -2,7 +2,11 @@
 
 ## Summary
 
-Setting up a repository for my active project on building a retro computer from scratch using a 6502 CPU. My goal is to use this Github repository as a blog of sorts. This CPU will be based off the great work by Ben Eater and his youtube series, but I have a wishlist of enhancements I am going to add to enhance the build. The current scope of my build is as per below: 
+Setting up a repository for my current project on building a retro computer from scratch using a 6502 CPU. My goal is to use this Github repository as a blog of sorts. This CPU will be based off the great work by Ben Eater and his youtube series, but I have a wishlist of enhancements I am going to add to enhance the build. 
+
+This build is currently in planning while I work on the design and components I would like to include.
+
+The wishlist scope of my build is as per below: 
 
 Main board:
 - 32k Ram / ROM
